@@ -11,11 +11,12 @@
 	 - Epics
 		 - Exploratory Data Analysis to explore the relationship between variables and determine which subset to use.
 		 - Data Engineering 
-		 - Model Building 
+		 - Model Building to predict the num
+		 - Web App Development
 		 - stories 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ0MzM3NDEsLTgxOTg2MDE0Nyw0ND
-gzOTM3NTgsMTk1OTU0NjQ5OSwxNjg0NzY3MDEyLDE5OTQxMjAw
-MCw5NzgwOTY0ODJdfQ==
+eyJoaXN0b3J5IjpbLTU2MTQzMzE4NywtMTY1NDQzMzc0MSwtOD
+E5ODYwMTQ3LDQ0ODM5Mzc1OCwxOTU5NTQ2NDk5LDE2ODQ3Njcw
+MTIsMTk5NDEyMDAwLDk3ODA5NjQ4Ml19
 -->
