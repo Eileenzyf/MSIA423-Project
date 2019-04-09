@@ -11,9 +11,9 @@
 	 - **Epics**
 		 - Exploratory Data Analysis to explore the relationship between variables and determine which subset to use.
 			 - Stories:
-			1. Merge two data sets (1 point)
+			*1. Merge two data sets (1 point)
 			2. Data cleaning, check NA values and duplicates. (1 point)
-			3. Distribution of each variables, check multicollinearity and outliners (1 point)  
+			3. Distribution of each variables, check multicollinearity and outliners (1 point)*  
 		 - Data Engineering 
 			 - Stories:
 			 1. Variable transformation (1 point)
@@ -23,7 +23,7 @@
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3MzY1NTE5LC0xNjU0NDMzNzQxLC04MT
+eyJoaXN0b3J5IjpbMTMxNDM4MDEzLC0xNjU0NDMzNzQxLC04MT
 k4NjAxNDcsNDQ4MzkzNzU4LDE5NTk1NDY0OTksMTY4NDc2NzAx
 MiwxOTk0MTIwMDAsOTc4MDk2NDgyXX0=
 -->
