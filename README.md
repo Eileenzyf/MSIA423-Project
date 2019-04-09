@@ -11,15 +11,16 @@
 	 - Epics
 		 - Exploratory Data Analysis to explore the relationship between variables and determine which subset to use.
 			 - Stories:
-			1. Merge two data sets
-			2. Data cleaning 
+			1. Merge two data sets (1 point)
+			2. Data cleaning, check NA values and duplicates. (1 point)
+			3.  
 		 - Data Engineering 
 		 - Model Building to predict the number of reviews and ratings using a set of parameters. 
 		 - Web App Development to build interactive features that allow users to enter their data to get predictions. 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzE3NzA0MiwtMTY1NDQzMzc0MSwtOD
+eyJoaXN0b3J5IjpbLTMwNjczOTUyMywtMTY1NDQzMzc0MSwtOD
 E5ODYwMTQ3LDQ0ODM5Mzc1OCwxOTU5NTQ2NDk5LDE2ODQ3Njcw
 MTIsMTk5NDEyMDAwLDk3ODA5NjQ4Ml19
 -->
