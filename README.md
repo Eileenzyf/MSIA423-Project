@@ -13,14 +13,15 @@
 			 - Stories:
 			1. Merge two data sets (1 point)
 			2. Data cleaning, check NA values and duplicates. (1 point)
-			3.  
+			3. Distribution of each variables, check multicollinearity and outliners (1 point)  
 		 - Data Engineering 
+		 - 
 		 - Model Building to predict the number of reviews and ratings using a set of parameters. 
 		 - Web App Development to build interactive features that allow users to enter their data to get predictions. 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjczOTUyMywtMTY1NDQzMzc0MSwtOD
-E5ODYwMTQ3LDQ0ODM5Mzc1OCwxOTU5NTQ2NDk5LDE2ODQ3Njcw
-MTIsMTk5NDEyMDAwLDk3ODA5NjQ4Ml19
+eyJoaXN0b3J5IjpbLTE1NTUyNTA5NjMsLTE2NTQ0MzM3NDEsLT
+gxOTg2MDE0Nyw0NDgzOTM3NTgsMTk1OTU0NjQ5OSwxNjg0NzY3
+MDEyLDE5OTQxMjAwMCw5NzgwOTY0ODJdfQ==
 -->
