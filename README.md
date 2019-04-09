@@ -7,11 +7,11 @@
 		 - Model performance: R square. 
 		 - Business sense: Ask the user to rate the app (thumbs up or thumbs down) and calculate the ratio. 
  - Project Backlog
-	 - Develop Themes: Help target users (software developers) to predict number of of reviews and ratings of their apps and therefore gauge potential popularity of their apps. Users can improve and make adjustment to their current version based on the results and icreas
+	 - Develop Themes: Help target users (software developers) to predict number of of reviews and ratings of their apps and therefore gauge potential popularity of their apps. Users can improve and make adjustment to their current version based on the results and potentially increase revenue. 
 	 - Epics
 		 - stories 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1MzMwMjM3LDE2ODQ3NjcwMTIsMTk5ND
-EyMDAwLDk3ODA5NjQ4Ml19
+eyJoaXN0b3J5IjpbMTk1OTU0NjQ5OSwxNjg0NzY3MDEyLDE5OT
+QxMjAwMCw5NzgwOTY0ODJdfQ==
 -->
