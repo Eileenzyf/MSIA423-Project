@@ -20,12 +20,13 @@
 			 2. *Split the data set to training and test set (1 point)*
 		 - Model Building to predict the number of reviews and ratings using a set of parameters. 
 			 - Stories:
-			 1. *Variable transformation (1 point)*
+			 1. *Run a simple linear regression model to check the R square, variable importance and residual plot to determine what advanced model to use. (2 point)*
+			 2. 
 		 - Web App Development to build interactive features that allow users to enter their data to get predictions. 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQ3NTE5ODEsLTE2NTQ0MzM3NDEsLT
-gxOTg2MDE0Nyw0NDgzOTM3NTgsMTk1OTU0NjQ5OSwxNjg0NzY3
-MDEyLDE5OTQxMjAwMCw5NzgwOTY0ODJdfQ==
+eyJoaXN0b3J5IjpbLTUyMDA1MDE2NywtMTY1NDQzMzc0MSwtOD
+E5ODYwMTQ3LDQ0ODM5Mzc1OCwxOTU5NTQ2NDk5LDE2ODQ3Njcw
+MTIsMTk5NDEyMDAwLDk3ODA5NjQ4Ml19
 -->
