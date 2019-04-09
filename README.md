@@ -2,7 +2,6 @@
 
  ## Project Charter
  
-
  - **Vision:** The ever-changing mobile landscape is a challenging space to navigate. . While the number of mobile apps has been increasing
    over the past few years, the competition has became more and more
    intense. Therefore, it is crucial for software developers to improve
@@ -27,23 +26,23 @@
 
  - **Epics**
 	 -  Exploratory Data Analysis to explore the relationship between variables and determine which subset to use.
-			 - Stories:
+		 - Stories:
 			1. *Merge two data sets (1 point)*
 			2. *Data cleaning, check NA values and duplicates. (1 point)*
 			3. *Distribution of each variables, check multicollinearity and outliners (1 point)*  
-		 - Data Engineering 
-			 - Stories:
+	- Data Engineering 
+		- Stories:
 			 1. *Variable transformation (1 point)*
 			 2. *Split the data set to training and test set (1 point)*
-		 - Model Building to predict the number of reviews and ratings using a set of parameters. 
-			 - Stories:
+	- Model Building to predict the number of reviews and ratings using a set of parameters. 
+		- Stories:
 			 1. *Run a simple linear regression model to check the R square, variable importance and residual plot to determine what advanced model to use. (2 point)*
 			 2. 
-		 - Web App Development to build interactive features that allow users to enter their data to get predictions. 
+	- Web App Development to build interactive features that allow users to enter their data to get predictions. 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDIyMjcwNCwtMTY1NDQzMzc0MSwtOD
+eyJoaXN0b3J5IjpbLTIxODcwNjc4NiwtMTY1NDQzMzc0MSwtOD
 E5ODYwMTQ3LDQ0ODM5Mzc1OCwxOTU5NTQ2NDk5LDE2ODQ3Njcw
 MTIsMTk5NDEyMDAwLDk3ODA5NjQ4Ml19
 -->
