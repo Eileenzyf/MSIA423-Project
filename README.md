@@ -5,8 +5,11 @@
 	 - Mission: Enable users to input the features of their IOS apps and predict number of reviews and rating that specific app will receive and thus its popularity based on its features. 
 	 - Success Criteria: Successfully predict the number of reviews and ratings by X percent. 
  - Project Backlog
+	 - Develop Themes
+	 - Epics
+	 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Njg1MzQ5NywxOTk0MTIwMDAsOTc4MD
-k2NDgyXX0=
+eyJoaXN0b3J5IjpbLTEwOTcxMjAxNjcsMTk5NDEyMDAwLDk3OD
+A5NjQ4Ml19
 -->
