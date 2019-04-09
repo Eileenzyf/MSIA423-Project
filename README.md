@@ -9,12 +9,14 @@
  2. Project Backlog
 	 - Develop Themes: Help target users (software developers) to predict number of of reviews and ratings of their apps and therefore gauge potential popularity of their apps. Users can improve and make adjustment to their current version based on the results and potentially increase revenue. 
 	 - Epics
-		 - Exploratory Data Analysis
+		 - Exploratory Data Analysis to explore the relationship between variables and determine which subset to use
+		 - Data Engineering 
 		 - Model Building 
 
 		 - stories 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4MzkzNzU4LDE5NTk1NDY0OTksMTY4ND
-c2NzAxMiwxOTk0MTIwMDAsOTc4MDk2NDgyXX0=
+eyJoaXN0b3J5IjpbLTE2MjcwODg2NTcsNDQ4MzkzNzU4LDE5NT
+k1NDY0OTksMTY4NDc2NzAxMiwxOTk0MTIwMDAsOTc4MDk2NDgy
+XX0=
 -->
