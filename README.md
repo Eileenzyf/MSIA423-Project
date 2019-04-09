@@ -15,13 +15,15 @@
 			2. Data cleaning, check NA values and duplicates. (1 point)
 			3. Distribution of each variables, check multicollinearity and outliners (1 point)  
 		 - Data Engineering 
-		 - 
+			 - Stories:
+			 1. Variable transformation (1 point)
+			 2. Split the data set to training and testi
 		 - Model Building to predict the number of reviews and ratings using a set of parameters. 
 		 - Web App Development to build interactive features that allow users to enter their data to get predictions. 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTUyNTA5NjMsLTE2NTQ0MzM3NDEsLT
-gxOTg2MDE0Nyw0NDgzOTM3NTgsMTk1OTU0NjQ5OSwxNjg0NzY3
-MDEyLDE5OTQxMjAwMCw5NzgwOTY0ODJdfQ==
+eyJoaXN0b3J5IjpbNTk0NDk0MjMwLC0xNjU0NDMzNzQxLC04MT
+k4NjAxNDcsNDQ4MzkzNzU4LDE5NTk1NDY0OTksMTY4NDc2NzAx
+MiwxOTk0MTIwMDAsOTc4MDk2NDgyXX0=
 -->
