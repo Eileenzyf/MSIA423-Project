@@ -5,13 +5,13 @@
 	 - Mission: Enable users to input the features of their IOS apps and predict number of reviews and rating that specific app will receive and thus its popularity based on its features. 
 	 - Success Criteria: 
 		 - Model performance: R square. 
-		 - Business sense: Ask the user to rate the 
+		 - Business sense: Ask the user to rate the app (thumbs up or thumbs down) and calculate the ratio. 
  - Project Backlog
-	 - Develop Themes
+	 - Develop Themes: Help target users (software developers) to predict number of of reviews and ratings of their apps and 
 	 - Epics
 		 - stories 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg2ODY1NzgsMTY4NDc2NzAxMiwxOT
-k0MTIwMDAsOTc4MDk2NDgyXX0=
+eyJoaXN0b3J5IjpbMjI5ODc5NzY3LDE2ODQ3NjcwMTIsMTk5ND
+EyMDAwLDk3ODA5NjQ4Ml19
 -->
