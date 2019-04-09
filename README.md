@@ -10,13 +10,14 @@
 	 - Develop Themes: Help target users (software developers) to predict number of of reviews and ratings of their apps and therefore gauge potential popularity of their apps. Users can improve and make adjustment to their current version based on the results and potentially increase revenue. 
 	 - Epics
 		 - Exploratory Data Analysis to explore the relationship between variables and determine which subset to use.
+			1. Data cleaning 
 		 - Data Engineering 
 		 - Model Building to predict the number of reviews and ratings using a set of parameters. 
 		 - Web App Development to build interactive features that allow users to enter their data to get predictions. 
-		 - stories 
+	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTY4NDU3OTUsLTE2NTQ0MzM3NDEsLT
+eyJoaXN0b3J5IjpbLTE4NzQ1Njg0MjUsLTE2NTQ0MzM3NDEsLT
 gxOTg2MDE0Nyw0NDgzOTM3NTgsMTk1OTU0NjQ5OSwxNjg0NzY3
 MDEyLDE5OTQxMjAwMCw5NzgwOTY0ODJdfQ==
 -->
