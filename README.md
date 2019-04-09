@@ -19,11 +19,13 @@
 			 1. *Variable transformation (1 point)*
 			 2. *Split the data set to training and test set (1 point)*
 		 - Model Building to predict the number of reviews and ratings using a set of parameters. 
+			 - Stories:
+			 1. *Variable transformation (1 point)*
 		 - Web App Development to build interactive features that allow users to enter their data to get predictions. 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTcxMDU3NzksLTE2NTQ0MzM3NDEsLT
+eyJoaXN0b3J5IjpbLTE2MzQ3NTE5ODEsLTE2NTQ0MzM3NDEsLT
 gxOTg2MDE0Nyw0NDgzOTM3NTgsMTk1OTU0NjQ5OSwxNjg0NzY3
 MDEyLDE5OTQxMjAwMCw5NzgwOTY0ODJdfQ==
 -->
